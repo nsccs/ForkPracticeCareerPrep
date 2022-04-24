@@ -11,9 +11,9 @@
 - [ ] Push to the repository on your GitHub Profile
 - [ ] Go to you GitHub Profile submit a pull request
 
-Happy to have yall here <3
+Happy to have yall here :heart:
 
-Good luck :)
+Good luck :smile:
 
 You got this
 
