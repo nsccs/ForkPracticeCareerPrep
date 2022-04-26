@@ -71,7 +71,7 @@ G. Push your changes to your GitHub Profile repository `git push origin main`
 > Continue with **step 7** above
 ---
 
-Happy to have yall here :heart"
+Happy to have yall here :heart:
 
 Good luck :smile:
 
