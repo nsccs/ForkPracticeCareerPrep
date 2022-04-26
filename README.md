@@ -33,7 +33,7 @@
 
 ![](readme_images/pullRequest.png)
 ---
-#### Terminal Commands
+## Terminal Commands
 ---
 **Switch to the GitBash terminal**
 
