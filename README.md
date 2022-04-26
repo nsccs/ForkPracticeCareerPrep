@@ -40,7 +40,7 @@
 ---
 ## Terminal Commands
 ---
-**Switch to the GitBash terminal**
+**Switch to the Git Bash terminal**
 
 On your computer navigate to the folder where you want to store your copy within the Git Bash terminal. Cloning will create a subfolder including all the files within the repository.
 
