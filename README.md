@@ -1,6 +1,10 @@
 
 # GitHub Workflow
 
+---
+### GitHub UI Instructions
+---
+
 1. Fork this repository<br>
    *Done from NSC GitHub Repository (click link below)*  
    <a href="https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep" target="_blank">https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep</a>
