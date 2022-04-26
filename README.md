@@ -16,16 +16,20 @@
 
 On your computer navigate to the folder where you want to store your copy within the GitBash terminal. Cloning will create a subfolder and include all the files within the repository.
 
-A. Cllone this repository `git clone https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep.git`
+A. Clone this repository `git clone https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep.git`
 
 ![Highlighting Cloning option in GitHub](readme_images/clone.png)
 
 **Switch to your file management system**
 
+
 B. Create a subfolder within this copied repository. Name it your GitHub profile handle.
 C. In this folder create a README.md file
 D. Open this file and add your markdown and save the file.
+
 **Switch to the GitBash terminal**
+
+
 E. add your changes from the terminal `git add .`
 F. Commit your changes `git commit -m "My created subfolder with markdown file."`
 G. Push your changes to your GitHub Profile repository `git push origin main`
