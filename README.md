@@ -12,7 +12,7 @@
 ![](readme_images/myProfileRepo.png)
 
 
-* *For a Deeper dive Using Git Bash command line. Follow Steps **A** thru **G** Under **Terminal Commands*** below
+> *For a Deeper dive Using Git Bash command line. Follow Steps **A** thru **G** Under **Terminal Commands*** below
 
 3. Click the green "Add file" button. Select "Create new file"
 
@@ -63,7 +63,7 @@ F. Commit your changes `git commit -m "My created subfolder with markdown file."
 G. Push your changes to your GitHub Profile repository `git push origin main`
 
 ---
-* Continue with **step 7** above
+> Continue with **step 7** above
 ---
 
 Happy to have yall here <3
