@@ -16,7 +16,7 @@
 
 On your computer navigate to the folder where you want to store your copy within the GitBash terminal. Cloning will create a subfolder and include all the files within the repository.
 
-A. Clone this repository `git clone https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep.git`
+A. Cllone this repository `git clone https://github.com/NSC-Computer-Science-Club/ForkPracticeCareerPrep.git`
 
 ![Highlighting Cloning option in GitHub](readme_images/clone.png)
 
