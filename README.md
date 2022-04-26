@@ -38,7 +38,7 @@
 ![](readme_images/pullRequest.png)
 
 ---
-## Terminal Commands
+### Terminal Commands
 ---
 **Switch to the Git Bash terminal**
 
