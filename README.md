@@ -21,6 +21,7 @@ A. Cllone this repository `git clone https://github.com/NSC-Computer-Science-Clu
 ![Highlighting Cloning option in GitHub](readme_images/clone.png)
 
 **Switch to your file management system**
+
 B. Create a subfolder within this copied repository. Name it your GitHub profile handle.
 C. In this folder create a README.md file
 D. Open this file and add your markdown and save the file.
