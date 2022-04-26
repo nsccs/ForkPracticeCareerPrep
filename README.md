@@ -24,15 +24,21 @@ A. Clone this repository `git clone https://github.com/NSC-Computer-Science-Club
 
 
 B. Create a subfolder within this copied repository. Name it your GitHub profile handle.
+
 C. In this folder create a README.md file
+
 D. Open this file and add your markdown and save the file.
+
 
 **Switch to the GitBash terminal**
 
 
 E. add your changes from the terminal `git add .`
+
 F. Commit your changes `git commit -m "My created subfolder with markdown file."`
+
 G. Push your changes to your GitHub Profile repository `git push origin main`
+
 ---
 Continue with step 3 above
 ---
