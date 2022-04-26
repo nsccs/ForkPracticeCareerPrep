@@ -32,6 +32,7 @@
 7. From your GitHub Profile submit a pull request
 
 ![](readme_images/pullRequest.png)
+
 ---
 ## Terminal Commands
 ---
