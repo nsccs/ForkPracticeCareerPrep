@@ -92,7 +92,8 @@ If you have any questions or need help you can message us within our <a href="ht
 
 [YouTube Video Walkthrough](https://www.youtube.com/watch?v=h8suY-Osn8Q)
 
-=======
+---
+
 Happy to have yall here :heart:
 
 Good luck :smile:
