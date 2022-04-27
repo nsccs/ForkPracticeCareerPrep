@@ -1,10 +1,10 @@
-Hello everyone and welcome to our club repository! Here you can follow the instructions below to learn how to make a copy of a project from a public repository. Then create changes in your copy on GitHub or download it to your computer to make changes. Then submit those changes back to the original repository for approval. This is a generalized Git Workflow to help gain the skills to collaborate on open source projects.
+Hello everyone and welcome to our club repository! This is a generalized Git Workflow to help gain the skills to collaborate on open source projects. Here you can follow the instructions below to learn how to make a copy of a project from a public repository. Then create changes in your copy on GitHub or download it to your computer to make changes. Last, submit those changes back to the original repository for approval. 
 
 The **GitHub UI Instructions** will allow you to follow along and make changes within the browser. However you are encouraged to take a deeper dive and use the Git Bash **Terminal commands**. This will allow you to work on the project within your preferred IDE on your computer.  If this is something you want to try just follow along with the additional steps after step 2. Good luck.
 
 If you have any questions or need help you can message us within our <a href="https://discord.gg/xfeXTySSbX" target="_blank">Club Discord</a>.
 
-> For an overview of terminal commands check out this video our club member Beck <a href="https://www.youtube.com/watch?v=UDlIJkvOOPw&list=PL6k4gMRDdFjhHvq9Oulmyph2LezQMU4lg&index=3&t=2s" target="_blank">created</a>.
+> For an overview of terminal commands check out this <a href="https://www.youtube.com/watch?v=UDlIJkvOOPw&list=PL6k4gMRDdFjhHvq9Oulmyph2LezQMU4lg&index=3&t=2s" target="_blank">video</a> our club member Beck created.
 
 # GitHub Workflow
 
@@ -25,9 +25,8 @@ If you have any questions or need help you can message us within our <a href="ht
 
    > *For a Deeper dive Using Git Bash command line. Follow Steps **A** thru **G** Under **Terminal Commands*** below
 
-3. Click the green "Add file" button. Select "Create new file"
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](readme_images/Adding%20file%20from%20UI.png)
+3. Click the green "Add file" button. Select "Create new file"<br></br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](readme_images/Adding%20file%20from%20UI.png)
 
 4. At the top of the file will be a textbox to name your file. Include the subfolder. Typing the name of the subfolder and then a forward-slash will indicate a new folder. Then type readme.md
 
@@ -41,7 +40,6 @@ If you have any questions or need help you can message us within our <a href="ht
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](readme_images/commit.png)
 
 7. <a name="Step">From your GitHub Profile submit a pull request</a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](readme_images/pullRequest.png)
 
 ---
