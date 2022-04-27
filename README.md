@@ -32,7 +32,7 @@ Questions or thoughts? <a href="https://discord.gg/xfeXTySSbX" target="_blank">C
 
 <br></br>
    > *For a Deeper dive Using Git Bash command line. Follow Steps **A** thru **G** Under **Terminal Commands*** below
-   <br></br>
+ 
    <br></br>
 
 3. Click the green "Add file" button. Select "Create new file"<br></br>
