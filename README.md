@@ -79,6 +79,7 @@ If you have any questions or need help you can message us within our <a href="ht
 ---
 ### References
 ---
+<br>
 <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub Markdown Reference Guide</a><br>
 Link to Beck’s Git Intro Video: <a href="https://www.youtube.com/watch?v=UDlIJkvOOPw&list=PL6k4gMRDdFjhHvq9Oulmyph2LezQMU4lg&index=3&t=2s">Working Together with Github - 30 Minute Virtual TechBytes</a><br>
 Link to GitHub Profile Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/<br>
