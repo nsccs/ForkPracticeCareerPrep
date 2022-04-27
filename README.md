@@ -1,6 +1,6 @@
 Hello everyone and welcome to our club repository! This is a generalized Git Workflow to help gain the skills to collaborate on open source projects. Here you can follow the instructions below to learn how to make a copy of a project from a public repository. Then create changes in your copy on GitHub or download it to your computer to make changes. Last, submit those changes back to the original repository for approval. 
 
-The **GitHub UI Instructions** will allow you to follow along and make changes within the browser. However you are encouraged to take a deeper dive and use the Git Bash **Terminal commands**. This will allow you to work on the project within your preferred IDE on your computer.  If this is something you want to try just follow along with the additional steps after step 2. Good luck.
+The **GitHub UI Instructions** will allow you to follow along and make changes within the browser. However you are encouraged to take a deeper dive and use the Git Bash **Terminal commands**. This will allow you to work on the project within your preferred IDE on your computer.  If this is something you want to try just follow along with the additional steps listed within step 2. Good luck!
 
 If you have any questions or need help you can message us within our <a href="https://discord.gg/xfeXTySSbX" target="_blank">Club Discord</a>.
 
