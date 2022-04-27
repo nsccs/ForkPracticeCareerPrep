@@ -84,5 +84,10 @@ Link to Beck’s Git Intro Video: <a href="https://www.youtube.com/watch?v=UDlIJ
 Link to GitHub Profile Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/<br>
 Link to Good First Issue: https://goodfirstissues.com/<br>
 Link to Fork Me Repo: https://github.com/atapas/fork-me with <a href="https://www.youtube.com/watch?v=h8suY-Osn8Q">YouTube video walkthrough</a><br>
+=======
+Happy to have yall here :heart:
+
+Good luck :smile:
+
 
 
