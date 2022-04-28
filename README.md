@@ -116,6 +116,10 @@ Questions or thoughts? <a href="https://discord.gg/xfeXTySSbX" target="_blank">C
 
 [YouTube Video Walkthrough](https://www.youtube.com/watch?v=h8suY-Osn8Q)
 
+[Public Apis](https://github.com/public-apis/public-apis)
+
+[Choosing Projects](https://github.com/collections/choosing-projects)
+
 
 
 
