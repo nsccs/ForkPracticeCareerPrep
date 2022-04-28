@@ -86,7 +86,7 @@ Questions or thoughts? <a href="https://discord.gg/xfeXTySSbX" target="_blank">C
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D. Open this file and add your markdown and save the file.<br></br>
 
 
-**Switch to the GitBash terminal**
+**Switch to the Git Bash terminal**
 <br></br>
 
 
