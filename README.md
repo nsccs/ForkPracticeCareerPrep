@@ -83,6 +83,9 @@ If you have any questions or need help you can message us within our <a href="ht
 Link to Beck’s Git Intro Video: <a href="https://www.youtube.com/watch?v=UDlIJkvOOPw&list=PL6k4gMRDdFjhHvq9Oulmyph2LezQMU4lg&index=3&t=2s">Working Together with Github - 30 Minute Virtual TechBytes</a><br>
 Link to GitHub Profile Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/<br>
 Link to Good First Issue: https://goodfirstissues.com/<br>
-Link to Fork Me Repo: https://github.com/atapas/fork-me with <a href="https://www.youtube.com/watch?v=h8suY-Osn8Q">YouTube video walkthrough</a><br>
+Link to Fork Me Repo: https://github.com/atapas/fork-me with <a href="https://www.youtube.com/watch?v=h8suY-Osn8Q">YouTube video walkthrough</a><br></br>
+[GitHub Public APIs](https://github.com/public-apis/public-apis)<br></br>
+[How to: Choose First Open-source Project](https://github.com/collections/choosing-projects)<br></br>
+
 
 
