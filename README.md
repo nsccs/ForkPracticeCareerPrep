@@ -120,6 +120,10 @@ Questions or thoughts? <a href="https://discord.gg/xfeXTySSbX" target="_blank">C
 
 [Choosing Projects](https://github.com/collections/choosing-projects)
 
+#### Speaker References
 
+[GitHub Collaboration Features](./speaker_references/GitHub%20Collaboration%20Features.pdf)
+
+[Sample Sequences of Commands](./speaker_references/Sample%20sequence%20of%20git%20commands.pdf)
 
 
